@@ -1,6 +1,6 @@
-# mis_lab_2
+# MIS Lab 2
 
-Flutter project for the course Mobile Information Systems.
+Flutter project for the course Mobile Information Systems.  
 Data from "https://official-joke-api.appspot.com/".
 
 ## App Overview
