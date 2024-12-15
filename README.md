@@ -1,16 +1,10 @@
 # mis_lab_2
 
-A new Flutter project.
+Flutter project for the course Mobile Information Systems.
+Data from "https://official-joke-api.appspot.com/".
 
-## Getting Started
+## App Overview
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot1](assets/app_overview/screenshot-lab2-types.png)
+![App Screenshot2](assets/app_overview/screenshot-lab2-by-type-screen.png)
+![App Screenshot2](assets/app_overview/screenshot-lab2-random.png)
